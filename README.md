@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @adarshui
-- 👀 I’m interested in Web Development and AIML Engineering
-- 🌱 I’m currently in AI, Web Development
+- 👀 AIML Engineering
 - 💞️ If u are looking to collaborate on projects for Web Solutions, try to reach out 
 - 📫 How to reach me:- adarshkurundwade@gmail.com
 - 😄 Pronouns: Hi, can you call me Adi
